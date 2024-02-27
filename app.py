@@ -1,6 +1,6 @@
 from flask import Flask,render_template,request
 app=Flask(__name__)
-
+#Guy_sense vs kakashi
 
 @app.route("/log")
 def home():
